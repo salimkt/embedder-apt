@@ -1,0 +1,15 @@
+Archive: stable
+Origin: BlueMesh
+Label: BlueMesh
+Suite: stable
+Codename: bluemesh
+Date: Sun, 13 Sep 2026 11:39:15 +0000
+Architectures: all amd64 arm64
+Components: main
+Description: BlueMesh service packages
+MD5Sum:
+ d41d8cd98f00b204e9800998ecf8427e 0 Packages
+ 1514c20965f6a034d8d2bda53f7a7fe9 29 Packages.gz
+SHA256:
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 Packages
+ d915fa6b63916a6c28028ed209bb6d5a16ff752bdb9194c9b0efeeb21dd6142a 29 Packages.gz
