@@ -3,13 +3,13 @@ Origin: BlueMesh
 Label: BlueMesh
 Suite: stable
 Codename: bluemesh
-Date: Thu, 08 Oct 2026 11:47:58 +0000
+Date: Thu, 08 Oct 2026 13:00:13 +0000
 Architectures: all amd64 arm64
 Components: main
 Description: BlueMesh service packages
 MD5Sum:
- c0a89eab064bd50e20121b01db95149c 1968 Packages
- ed8302ed2ca58a35ae7636e901511dc5 765 Packages.gz
+ 0529c1ca113e0cd4d6f9c8075a940fa7 2952 Packages
+ bb752205af82de31f0ab74d4415d4cf0 890 Packages.gz
 SHA256:
- 3f1792e3bc2224156e7f65445bfae1e93f16160a7a59f26a2cf759d66ece1660 1968 Packages
- f40a5504456317f9ee8dede8b83fe34aa94cda46bfbc2161925ad9613db73cf0 765 Packages.gz
+ c8238cfc6664abfab97c4e45c8d90536c710f7d2c2f8ae8de00b223888385dd6 2952 Packages
+ 1b120d88ea6fa2427bcaaff26139183e463821663b8bc47d1989864ea4f717a5 890 Packages.gz
